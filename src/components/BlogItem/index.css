@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.user-list {
+  display: flex;
+  justify-content: center;
+
+  flex-direction: column;
+}
+.top-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title-head {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 21px;
+  color: #12022f;
+}
+.date {
+  font-family: 'Roboto';
+
+  font-size: 17px;
+  color: #616e7c;
+}
+.description {
+  font-family: 'Roboto';
+
+  font-size: 17px;
+  color: #616e7c;
+}
+.line {
+  border: 1px solid #9aa5b1;
+}

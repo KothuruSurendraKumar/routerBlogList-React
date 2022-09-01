@@ -1,0 +1,6 @@
+/* Write your CSS code here */
+.lists-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}

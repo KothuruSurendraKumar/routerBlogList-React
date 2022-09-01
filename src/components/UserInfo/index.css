@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.profile-img {
+  height: 80px;
+  width: 80px;
+}
+.user-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.profile-header {
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 700;
+  color: #12022f;
+}
+.profile-text {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  color: #616e7c;
+}
